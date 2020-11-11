@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeMockFeed",
+  "displayName": "ReactNativeMockFeed",
+  "expo": {
+    "name": "ReactNativeMockFeed",
+    "slug": "ReactNativeMockFeed",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
